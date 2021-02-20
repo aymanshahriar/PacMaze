@@ -8,9 +8,9 @@ High level description of the AI of the ghosts: Each ghost moves around the maze
 
 The graphics and GUI were created using the JavaFX platform.
 
-I had a lot of fun making this game, especially when coming up with the ghost AI and random maze generation algorithms
+I had a lot of fun making this game, especially when coming up with the ghost AI and random maze generation algorithms.
 
-There is also a test document provided in the JUnit Tests file that describes how each method tests the Avatar class
+There is also a test document provided in the JUnit Tests file that describes how each method tests the Avatar class.
 
 ## Instructions on how to run the game:
 1) Download the folder Project Final 

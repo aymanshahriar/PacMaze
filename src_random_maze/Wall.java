@@ -1,5 +1,6 @@
 /**
  * The Wall class contains the variables and methods of wall
+ * References: https://medium.com/swlh/maze-generation-with-depth-first-search-and-recursive-backtracking-869f5c4496ad
  */
 
 import java.awt.Point;

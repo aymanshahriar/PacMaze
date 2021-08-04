@@ -1,3 +1,5 @@
+ᗧ·····🍒······ᗣ 
+
 # PacMaze
 	
 This is a PacMan based game that I created where instead of hardcoded, static levels, each level is a randomly generated maze.

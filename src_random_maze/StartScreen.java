@@ -40,11 +40,11 @@ public class StartScreen {
 	public static void display() {
 		Stage primaryStage = new Stage();
 		
-		primaryStage.setTitle("PACMAZE");
+		primaryStage.setTitle("PacMan Themed Maze Game");
 		
 		VBox root = new VBox();
 
-		Label label = new Label("PACMAZE");
+		Label label = new Label("PacMan Themed Maze Game");
 		label.setFont(Font.font("Verdana", FontWeight.BOLD, 60));
 		
 		// create a button that starts the game

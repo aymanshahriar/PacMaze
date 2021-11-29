@@ -27,7 +27,7 @@ public class StartScreen extends Application{
 	
 	@Override
 	public void start(Stage primaryStage) throws Exception {
-		primaryStage.setTitle("PACMAZE");
+		primaryStage.setTitle("PacMan Themed Maze Game");
 		
 		VBox root = new VBox();
 

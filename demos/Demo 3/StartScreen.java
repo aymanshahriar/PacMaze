@@ -36,11 +36,11 @@ public class StartScreen extends Application{
 	 */
 	@Override
 	public void start(Stage primaryStage) throws Exception {
-		primaryStage.setTitle("PACMAZE");
+		primaryStage.setTitle("PacMan themed Maze Game");
 		
 		VBox root = new VBox();
 
-		Label label = new Label("PACMAZE");
+		Label label = new Label("PacMan themed Maze Game");
 		
 		// create a button that starts the game
 		Button button = new Button("Start Game");

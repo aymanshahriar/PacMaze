@@ -23,7 +23,7 @@ import javafx.animation.Animation;
 
 
 /**
- * This class contains the main logic of the pacmaze gui application
+ * This class contains the main logic of the gui application
  */
 
 public class PacManMazeGUILogic extends Application{
